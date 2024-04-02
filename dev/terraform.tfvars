@@ -1,6 +1,6 @@
-sgname      = "dev-sg-21"
+sgname      = "dev-sg-2024"
 cidr        = ["0.0.0.0/0"]
 mytag       = "dev_env"
-amiid       = "ami-094125af156557ca2"
+amiid       = "ami-0a70b9d193ae8a799"
 machinetype = "t2.micro"
-keyname     = "devjenkins"
+keyname     = "devopsresearch&learn"
